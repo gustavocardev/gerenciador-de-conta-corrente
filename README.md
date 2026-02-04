@@ -1,7 +1,7 @@
-Gerenciador de Conta Corrente
+# Gerenciador de Conta Corrente
 Este é um projeto simples desenvolvido em Java que simula as operações básicas de uma conta bancária através do console. Ele permite visualizar dados do cliente, consultar saldo, realizar transferências e receber depósitos.
 
-🚀 Funcionalidades
+ # 🚀 Funcionalidades
 O sistema oferece um menu interativo com as seguintes opções:
 
 Consultar Saldo: Exibe o saldo atualizado da conta.
@@ -12,14 +12,14 @@ Receber Valor: Permite adicionar um valor ao saldo atual.
 
 Sair: Encerra a aplicação.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 Java 17 (ou superior)
 
 Scanner API: Para interação com o usuário via terminal.
 
 Laços de Repetição e Condicionais: Para controle de fluxo do menu.
 
-💻 Como executar o projeto
+# 💻 Como executar o projeto
 Certifique-se de ter o JDK instalado em sua máquina.
 
 Copie o código do arquivo contaCorrente.java.
@@ -34,7 +34,8 @@ Execute o programa:
 
 Bash
 java contaCorrente
-📝 Exemplo de Uso
+
+# 📝 Exemplo de Uso
 Ao iniciar o programa, você verá um cabeçalho com os dados do cliente:
 
 Plaintext
